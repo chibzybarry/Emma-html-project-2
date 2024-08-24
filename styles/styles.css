@@ -1,0 +1,74 @@
+*{
+    margin: 0px;
+    padding: opx;
+    border-style: border-box;
+}
+
+#central-head {
+    text-align: center;
+    font-size: 1rem;
+    margin: 5px;
+    padding: 5px;
+}
+
+#navbar {
+    display: flex;
+    flex-direction: row-reverse;
+    margin-bottom: 10px;
+    padding: 0px 100px;
+}
+
+.menu-list {
+    display: inline-block;
+}
+
+.menu-list a {
+    padding: 20px 20px;
+    font-weight: 900;
+    margin-bottom: 2rem;
+    text-decoration: none;
+}
+
+#home-image {
+    text-align: center;
+    padding: 5px;
+}
+
+#home-item {
+    display: flex;
+    margin-bottom: 20px;
+}
+
+.home-logo {
+    font-size: 50px;
+    padding-left: 120px;
+}
+
+
+.lorem1class {
+    margin: 10px;
+    padding: 20px;
+    font-size: 20px;
+    color: green;
+    height: 200px;
+}
+
+#product {
+    margin: 300px 100px;
+    display: flex;
+}
+
+.learn1 {
+    margin-left:350px ;
+    width: 130px;
+    height: 50px;
+    color: blue;
+}
+
+#product-page {
+    display: flex;
+}
+
+.hthreeclass {
+    display: flex;
+}
