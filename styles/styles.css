@@ -54,7 +54,7 @@
 }
 
 #product {
-    margin: 300px 100px;
+    margin: 100px 100px;
     display: flex;
 }
 
@@ -71,4 +71,71 @@
 
 .hthreeclass {
     display: flex;
+    
+}
+
+
+.laptop1 {
+    margin: 20px;
+    background-color: rgb(204, 197, 197);
+}
+
+.loremh3 {
+    padding: 20px;
+}
+
+.bigdetails {
+    margin: 20px;
+    text-align: center;
+    background-color: rgb(203, 200, 200);
+    color: green;
+    
+}
+
+
+.de44 {
+    padding: 10px;
+    border: 1px solid black;
+    font-size: 1.5rem;
+    font-weight: 300;
+}
+
+
+.oldtelephone {
+    text-align: center;
+    margin-top: 10px;
+
+}
+
+#bigimage {
+    width: 100%;
+    margin-bottom:10px;
+
+}
+
+.bighand {
+    padding: 20px;
+
+}
+
+.parentfolder{
+    padding: 20px;
+}
+
+.imagee{
+    padding: 10px;
+}
+
+.moveword{
+    padding: 20px;
+    color: rgb(145, 157, 145);
+
+}
+
+#contactus{
+    display: flex;
+}
+
+#contact-list {
+    width: 100%;
 }
